@@ -1,5 +1,5 @@
 # store
-此项目用于存储 [AutoBuildImmortalWrt](https://github.com/wukongdaily/AutoBuildImmortalWrt/) 仓库以外的第三方软件包
+此项目用于存储 [AutoBuildImmortalWrt](https://github.com/z-5888/AutoBuildImmortalWrt/) 仓库以外的第三方软件包
 
 
 | 软件名称                  | 简介 / 功能描述                        | 来源 / 项目地址                                                                           |
@@ -12,7 +12,7 @@
 | luci-app-netwizard    | 网络配置向导插件                          | [sirpdboy/luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard)                                                                 |
 | luci-app-partexp      | 分区扩容插件         | [sirpdboy/luci-app-partexp](https://github.com/sirpdboy/luci-app-partexp)                             |
 | luci-app-quickstart   | iStore首页和网络向导                  | [linkease/luci-app-quickstart](https://github.com/kiddin9/kwrt-packages/tree/main/luci-app-quickstart)                                                                 |
-| luci-app-turboacc     | TurboACC 网络加速器（集成BBR、shortcut）   | [chenmozhijin/turboacc](https://github.com/wukongdaily/store/tree/master/run/x86/luci-app-turboacc) |
+| luci-app-turboacc     | TurboACC 网络加速器（集成BBR、shortcut）   | [chenmozhijin/turboacc](https://github.com/z-5888/store/tree/master/run/x86/luci-app-turboacc) |
 | luci-theme-kucat      | 酷猫主题                  | [sirpdboy/luci-theme-kucat](https://github.com/sirpdboy/luci-theme-kucat)                 |
 | luci-app-mosdns                | 高性能 DNS 分流器，支持 DoH/DoQ 等         | [sbwml/luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)                     |
 | luci-app-nekobox               | 代理工具      | [Thaolga/luci-app-nekobox](https://github.com/Thaolga/openwrt-nekobox)       |
@@ -28,11 +28,11 @@
 | luci-app-uninstall             | 高级卸载1.1.2 | [用于彻底卸载插件 点这里出处](https://www.bilibili.com/video/BV1dK1xBVEHF)                     |
 | luci-theme-aurora      | 极光主题 0.8                 | [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)                 |
 ## 如何集成到AutoBuildImmortalWrt
-https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
+https://github.com/z-5888/AutoBuildImmortalWrt/discussions/209
 ## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
 - ### [一键生成run插件] 🆕
-- https://github.com/wukongdaily/RunFilesBuilder<br>
+- https://github.com/z-5888/RunFilesBuilder<br>
 - ### [一键生成docker离线镜像] 🆕
-- https://github.com/wukongdaily/DockerTarBuilder<br>
+- https://github.com/z-5888/DockerTarBuilder<br>
 - ### [OpenWrt/Armbian IMG安装器ISO] 🆕
-- https://github.com/wukongdaily/armbian-installer
+- https://github.com/z-5888/armbian-installer

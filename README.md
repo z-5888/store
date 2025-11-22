@@ -28,11 +28,11 @@
 | luci-app-uninstall             | 高级卸载1.1.2 | [用于彻底卸载插件 点这里出处](https://www.bilibili.com/video/BV1dK1xBVEHF)                     |
 | luci-theme-aurora      | 极光主题 0.8                 | [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)                 |
 ## 如何集成到AutoBuildImmortalWrt
-https://github.com/z-5888/AutoBuildImmortalWrt/discussions/209
+https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
 ## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
 - ### [一键生成run插件] 🆕
-- https://github.com/z-5888/RunFilesBuilder<br>
+- https://github.com/wukongdaily/RunFilesBuilder<br>
 - ### [一键生成docker离线镜像] 🆕
-- https://github.com/z-5888/DockerTarBuilder<br>
+- https://github.com/wukongdaily/DockerTarBuilder<br>
 - ### [OpenWrt/Armbian IMG安装器ISO] 🆕
-- https://github.com/z-5888/armbian-installer
+- https://github.com/wukongdaily/armbian-installer
